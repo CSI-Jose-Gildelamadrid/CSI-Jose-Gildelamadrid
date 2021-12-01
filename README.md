@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my spanish project
 - 🤔 I’m looking for help with my math homework
 - 💬 Ask me about sports
-- 📫 How to reach me: noturbuissness@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play volley tennis
