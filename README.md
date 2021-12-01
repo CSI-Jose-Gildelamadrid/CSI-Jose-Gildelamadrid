@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
+
 **CSI-Jose-Gildelamadrid/CSI-Jose-Gildelamadrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my math homework
 - 💬 Ask me about sports
 - 📫 How to reach me: noturbuissness@gmail.com
-- 😄 Pronouns: they/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play volley tennis
--->
