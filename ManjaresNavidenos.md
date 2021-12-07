@@ -1,7 +1,7 @@
 <div align "center">
 
-
-
+<img src="https://images-gmi-pmc.edge-generalmills.com/fcb8e17e-ea9b-4f20-9280-53e7ebd2f5ae.jpg" width="260" height="137" />
+==
 # Manjares Navideño
 ## Asopao de Pollo
 ### Ingredientes:
