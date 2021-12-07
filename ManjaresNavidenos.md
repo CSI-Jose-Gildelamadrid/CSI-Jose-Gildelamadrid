@@ -1,3 +1,7 @@
+<div align "center">
+
+
+
 # Manjares Navideño
 ## Asopao de Pollo
 ### Ingredientes:
