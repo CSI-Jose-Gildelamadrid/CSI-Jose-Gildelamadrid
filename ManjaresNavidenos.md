@@ -26,3 +26,4 @@ Asopao de Pollo
 ###Instrucciones
 Paso 1: Sazone el pollo por todos lados con el Adobo. Caliente el aceite en una olla mediana a fuego medio-alto. Agregue el pollo a la olla y cocine hasta que estén dorados por todos los lados durante unos 7 minutos, deje a un lado. Agregue la cebolla y los pimientos a la olla y cocine hasta que estén suaves, unos 7 minutos. Añada el jamón, el ajo, el orégano, el sazón y cocine hasta que estén fragantes, alrededor de 1 minuto más. Agregue la salsa de tomate, los trozos de pollo reservados y 8 tazas de agua a la olla. Lleve el agua a ebullición. Agregue el arroz y deje hervir por un minuto. Reduzca el fuego a medio-bajo y cocine lentamente, revolviendo ocasionalmente hasta que el pollo esté bien cocido y el arroz esté tierno, aproximadamente 25 minutos.
 Paso 2: Agregue las aceitunas, los pimientos y el cilantro. Divida uniformemente el Asopao en los tazones. Sirva inmediatamente
+###https://youtu.be/-hQzHDHPX_U
